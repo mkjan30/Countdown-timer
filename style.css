@@ -1,0 +1,67 @@
+.navbar{
+    height: 75px;
+    float: right;
+    padding-right: 200px;
+    margin-bottom: 40px;
+}
+
+
+.carousel-inner{
+    width: 100%;
+    height: 700px;
+}
+.text{
+    float: right;
+    padding-right: 320px;
+}
+
+.card-group{
+    margin-bottom: 10px;
+    padding: 50px;
+}
+
+.card-img{
+    width: 45%;
+   padding-left: 150px;
+   margin-left: 200px;
+}
+
+.card-top{
+    width: 60%;
+}
+
+.footer{
+    margin-top: 30px;
+}
+
+.btn:hover{
+    background-color: red;
+}
+.btn{
+    margin-top: 10px;
+  margin-left: 900px;
+}
+
+.fa-flag:hover {
+    margin-top: 10px;
+    color: red;
+    margin-left: 20px;
+}
+
+.fa-heart:hover{
+    margin-top: 10px;
+    margin-left: 20px;
+    color:red !important;
+ }
+
+ .fa-cart-plus:hover{
+    margin-top: 10px;
+    margin-left: 20px;
+     color: red;
+ }
+
+ .fa-eye:hover{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: red;
+ }
